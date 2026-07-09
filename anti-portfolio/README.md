@@ -12,7 +12,7 @@ Each entry states the decision, the reason, and - crucially - **what would chang
 
 **What they do.** Paris-based frontier AI lab (LeCun-associated) building "world models" - AI that reasons, plans, and operates in the physical world (robotics, industrial, healthcare applications).
 
-**The round.** ~$1B+ **seed** in March 2026 at a reported ~$3.5B pre-money — the largest seed ever recorded for a European AI lab, backed by Cathay Innovation, Greycroft, Hiro, HV Capital, Bezos Expeditions, Nvidia, Samsung.
+**The round.** ~$1B+ **seed** in March 2026 at a reported ~$3.5B pre-money - the largest seed ever recorded for a European AI lab, backed by Cathay Innovation, Greycroft, Hiro, HV Capital, Bezos Expeditions, Nvidia, Samsung.
 
 **Why I passed.** Two clean reasons, neither about company quality:
 1. **Fund-fit / ownership.** A €50M fund cannot take a meaningful position in a $1B round. Any check we could write buys a rounding-error stake with no path to influence or reserves - it fails our portfolio-construction math before we even judge the science.
@@ -37,4 +37,4 @@ This page will grow as the fund's simulated sourcing continues. A short anti-por
 
 ---
 
-*Simulated fund — no investments made. Company facts from public sources. See [disclaimer](../README.md#disclaimer).*
+*Simulated fund - no investments made. Company facts from public sources. See [disclaimer](../README.md#disclaimer).*
