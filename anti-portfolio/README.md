@@ -4,7 +4,7 @@
 
 > A fund is defined as much by what it declines as by what it backs. Passing is where discipline actually lives: it's easy to be excited, hard to say no to a good company at the wrong price or the wrong shape. This page holds me accountable for those decisions - including the risk that I'm wrong and one of these becomes a breakout I missed. That's the honest cost of a discipline, and I'd rather record it than hide it.
 
-Each entry states the decision, the reason, and — crucially - **what would change my mind**, so these can be revisited as reality unfolds.
+Each entry states the decision, the reason, and - crucially - **what would change my mind**, so these can be revisited as reality unfolds.
 
 ---
 
