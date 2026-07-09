@@ -1,6 +1,6 @@
 # Anti-Portfolio
 
-*Vesuvio Ventures · The deals I looked at and passed on — and why.*
+*Vesuvio Ventures · The deals I looked at and passed on - and why.*
 
 > A fund is defined as much by what it declines as by what it backs. Passing is where discipline actually lives: it's easy to be excited, hard to say no to a good company at the wrong price or the wrong shape. This page holds me accountable for those decisions — including the risk that I'm wrong and one of these becomes a breakout I missed. That's the honest cost of a discipline, and I'd rather record it than hide it.
 
